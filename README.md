@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  ![Tejas Logo](https://github.com/tejasborse123/path/to/TejasLogo.webp)
+</p>
+
+---
+
 ## 🚀 About Me
 
 🎓 **Final Year B-Tech Student** | 💻 **Software Engineer** | ☕ **Java Enthusiast** | 🧠 **DSA Problem Solver**
