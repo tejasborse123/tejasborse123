@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  ![Tejas Logo](https://github.com/tejasborse123/path/to/TejasLogo.webp)
+  ![Tejas Logo](https://github.com/tejasborse123/TejasLogo.webp)
 </p>
 
 ---
