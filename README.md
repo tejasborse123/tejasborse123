@@ -17,7 +17,7 @@ I am passionate about **Java**, **Data Structures and Algorithms (DSA)**, and **
 ## 💻 Coding Profiles
 
 - **LeetCode**: 300+ problems solved ([Profile](https://leetcode.com/u/tejasborse123)) 🔥
-- **CodeChef**: 700+ problems solved ([Profile](https://codechef.com/user/borsetejas764)) 🥇
+- **CodeChef**: 700+ problems solved ([Profile](https://codechef.com/users/borsetejas764)) 🥇
 - **GitHub**: [tejasborse123](https://github.com/tejasborse123) 💻
 
 ---
