@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  ![Tejas Logo](https://github.com/tejasborse123/TejasLogo.webp)
-</p>
-
----
-
 ## 🚀 About Me
 
 🎓 **Final Year B-Tech Student** | 💻 **Software Engineer** | ☕ **Java Enthusiast** | 🧠 **DSA Problem Solver**
@@ -157,5 +151,8 @@ A solution to bridge the education gap in rural regions, providing access to qua
 <h3 align="center">Thank you for visiting my profile! Let's connect and collaborate! 🚀🤝</h3>
 
 <p align="center">
-  <!--img src="https://media.giphy.com/media/3o6Zt1WbTTNO9ElU8A/giphy.gif" alt="Thank You Sticker" width="400" height="150" /-->
+  <img src="https://raw.githubusercontent.com/tejasborse123/tejasborse123/main/TejasLogo.webp" alt="Tejas Logo" width="300" height="300" />
 </p>
+
+---
+---
