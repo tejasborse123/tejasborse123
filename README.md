@@ -16,7 +16,7 @@ I am passionate about **Java**, **Data Structures and Algorithms (DSA)**, and **
 
 ## 💻 Coding Profiles
 
-- **LeetCode**: 300+ problems solved ([Profile](https://leetcode.com/u/tejasborse123)) 🔥
+- **LeetCode**: 400+ problems solved ([Profile](https://leetcode.com/u/tejasborse123)) 🔥
 - **CodeChef**: 700+ problems solved ([Profile](https://codechef.com/users/borsetejas764)) 🥇
 - **GitHub**: [tejasborse123](https://github.com/tejasborse123) 💻
 
@@ -55,7 +55,6 @@ I am passionate about **Java**, **Data Structures and Algorithms (DSA)**, and **
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" alt="sublime" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
