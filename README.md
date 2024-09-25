@@ -65,7 +65,7 @@ I am passionate about **Java**, **Data Structures and Algorithms (DSA)**, and **
 I'm always eager to learn and explore new technologies! Currently focused on:
 
 - Advanced **Data Structures & Algorithms** 🔍📊
-- **Cryptography** and Secure Voting Systems 🔐
+- **Cryptography** 🔐
 - **System Design** & Software Engineering 🏗️💡
 
 ---
