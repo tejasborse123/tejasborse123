@@ -129,7 +129,7 @@ A comprehensive system to manage bus schedules, student data, and routes for a s
 ### 3. SGGS Social Media Website
 A community platform for students and faculty to communicate, share ideas, suggestions, and complaints in a secure environment.
 
-- **Tech Stack**: React, JavaScript, MongoDB, PHP
+- **Tech Stack**: HTML, CSS, React, JavaScript, MongoDB, PHP
 - **Features**:
   - Real-time messaging system 💬
   - Anonymous feedback functionality 🙈
