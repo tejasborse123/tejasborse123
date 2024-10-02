@@ -1,6 +1,5 @@
 <h1 align="center">
   Hello 👋, I'm Tejas Borse 
-  <!--img src="https://media.giphy.com/media/3o7abI8gkM0sC2v8Q4/giphy.gif" alt="Red Heart GIF" width="50" height="50" /-->
 </h1>
 <h3 align="center">A passionate Java developer from India </h3>
 
