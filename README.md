@@ -79,9 +79,12 @@ I'm always eager to learn and explore new technologies! Currently focused on:
 
 ---
 
+<!--
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Tejas Borse](https://linkedin.com/in/yourprofile) 🌐
+
+-->
 
 ---
 
